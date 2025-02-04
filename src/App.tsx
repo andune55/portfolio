@@ -11,8 +11,8 @@ function App() {
   return (
     <>
 
-      <header className="bg-teal-400 py-5">
-        <h1 className="text-center text-4l text-amber-50 font-bold lg">Portfolio Agustín Aguilera Beltrán</h1>
+      <header className="bg-blue-400 py-5">
+        <h1 className="text-center text-4xl text-amber-50 lg">Portfolio Agustín Aguilera Beltrán</h1>
 
       </header>
 
@@ -39,17 +39,17 @@ function App() {
         <div className="grid grid-cols-3 gap-4">          
             <div className="overflow-y-auto scrollbar w-full max-h-100">
             <strong>Email01</strong>
-            <img src="./src/assets/img/email01.png" alt="" />
+            <img src="/img/email03.png" alt="" />
             </div>
             
             <div className="overflow-y-auto scrollbar w-full max-h-100">
               <strong>Email02</strong>
-              <img src="./src/assets/img/email02.png" alt="" />
+              <img src="/img/email03.png" alt="" />
             </div>  
             
             <div className="overflow-y-auto scrollbar w-full max-h-100">
               <strong>Email03</strong>
-              <img src="./src/assets/img/email03.png" alt="" />
+              <img src="/img/email03.png" alt="" />
           </div>
         </div>
       </div>
