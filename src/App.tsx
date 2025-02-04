@@ -12,7 +12,7 @@ function App() {
     <>
 
       <header className="bg-teal-400 py-5">
-        <h1 className="text-center text-4l text-amber-50 font-bold lg">Portafolio Agustín Aguilera Beltrán</h1>
+        <h1 className="text-center text-4l text-amber-50 font-bold lg">Portfolio Agustín Aguilera Beltrán</h1>
 
       </header>
 
