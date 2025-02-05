@@ -6,7 +6,7 @@ export const cvitem : CVItem[] = [
         "titulo": "Tiempo de calidad",
         "foto": "familia.jpg",
         "altFoto": "Imagen familia",
-        "descripcion": "Pasar tiempo con mi familia es sin duda lo que está por delante de todo."
+        "descripcion": "Pasar tiempo con mi familia es sin duda lo que tiene más importancia para mí y supone el mejor tiempo empleado."
     },
     {
         "id": 1,

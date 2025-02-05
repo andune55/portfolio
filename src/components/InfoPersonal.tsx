@@ -4,7 +4,7 @@ export default function InfoPersonal(){
         <>
             <p>
                 <span className="inline-flex items-baseline">
-                <img src="/img/aab.jpg" className="mx-1 size-6 self-center rounded-full" /><span>Soy Agustín Aguilera</span></span> y vivo en la zona norte de Madrid.
+                <img src="/img/aab.jpg" className="mx-1 size-6 self-center rounded-full" /><span>Este es el portfolio de Agustín Aguilera</span></span>.
             </p>
         </>
     )
